@@ -1,6 +1,6 @@
 def greeting
 phrase = "Greetings!"
-  puts phrase
+  3.puts phrase
 end
 
 greeting
