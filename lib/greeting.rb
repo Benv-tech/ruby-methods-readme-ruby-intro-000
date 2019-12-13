@@ -1,6 +1,6 @@
 def greeting
 phrase = "Greetings!"
-  3.puts phrase
+3.times {print} phrase
 end
 
 greeting
